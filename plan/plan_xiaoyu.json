@@ -2,7 +2,6 @@
   {
     content: "写拼音",
     time: 20,
-    startTime: null,
     endTime: null,
     showContent: ""
   },
